@@ -1,0 +1,9 @@
+<html>
+<head>
+</head>
+<body>
+	<h1>This is the second page</h1>
+	<label>This is an absolute link</label>
+	<a href="https://in.linkedin.com/">Click here to go to LinkedIn</a>
+</body>
+</html>
